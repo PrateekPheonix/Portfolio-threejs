@@ -301,7 +301,7 @@ const projects = [
             },
         ],
         image: realcrud,
-        source_code_link: "https://github.com/PrateekPheonix/railway-management-system",
+        source_code_link: "https://github.com/PrateekPheonix/Real-Time-Crud",
     },
     {
         name: "Blog App",
@@ -343,7 +343,7 @@ const projects = [
             },
         ],
         image: tesla,
-        source_code_link: "https://github.com/PrateekPheonix/Blog-App-Redux-ContextAPI",
+        source_code_link: "https://github.com/PrateekPheonix/tesla-clone",
     },
 ];
 
