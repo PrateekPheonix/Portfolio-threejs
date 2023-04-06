@@ -158,7 +158,7 @@ const experiences = [
 
 const projects = [
     {
-        name: "E-Commerce Website",
+        name: "Cosmoz | E-Commerce",
         description:
             "Web-based platform that enables customers to browse the store categories and products as well as customize their profile and inlcudes and features like search filters. The admin can access the admin panel that allows the admin to oversee and control all store components",
         tags: [
@@ -180,7 +180,7 @@ const projects = [
             },
         ],
         image: ecommerce,
-        source_code_link: "https://github.com/PrateekPheonix/E-Commerce",
+        source_code_link: "https://github.com/PrateekPheonix/Cosmoz-Ecommerce",
     },
     {
         name: "Real-time Chat App",
